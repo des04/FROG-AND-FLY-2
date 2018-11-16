@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Fly
+comment1.params=
+comment1.target=Fly()
+comment1.text=\r\n\ This\ method\ is\ used\ once\ when\ the\ program\ is\ first\ run,\ it\ makes\r\n\ the\ fly\ face\ a\ random\ direction\ at\ the\ start\ of\ the\ game.\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ There\ is\ no\ return\ type\r\n
+comment2.params=start\ end
+comment2.target=int\ getRandomNumber(int,\ int)
+comment2.text=\r\n\ This\ method\ creates\ something\ called\ getRandomNumber\ which\ will\ help\r\n\ us\ get\ random\ numbers\ for\ actor\ placement\ later\ on\ in\ the\ code.\r\n\ @param\ start,\ end\r\n\ @return\ int\r\n
+comment3.params=
+comment3.target=void\ keyTurn()
+comment3.text=\r\n\ This\ method\ lets\ you\ use\ the\ arrow\ keys\ to\ move\ (up\ arrow\ \=\ forward,\ \r\n\ down\ arrow\ \=\ backward,\ left\ and\ right\ arrow\ keys\ to\ turn)\r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ There\ is\ no\ return\ type\r\n
+comment4.params=
+comment4.target=void\ eatFood()
+comment4.text=\r\n\ This\ method\ has\ code\ that\ makes\ it\ so\ when\ the\ fly\ is\ over\ food,\ it\r\n\ will\ remove\ the\ food\ from\ the\ world,\ giving\ the\ illusion\ that\ it\ ate\r\n\ the\ food\r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ There\ is\ no\ return\ type\r\n
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ Everything\ in\ act()\ is\ what\ happens\ in\ the\ program\ (you\ could\ say\r\n\ act()\ runs\ the\ program)\r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ There\ are\ no\ return\ types\r\n
+numComments=6

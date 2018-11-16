@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Scoreboard
+comment1.params=
+comment1.target=Scoreboard()
+comment1.text=\r\n\ Creates\ a\ scoreboard\ in\ the\ top\ left\ corner\ of\ the\ screen\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ There\ is\ no\ return\ type\r\n
+comment2.params=
+comment2.target=void\ addToScore()
+comment2.text=\r\n\ A\ method\ that\ adds\ to\ the\ score\ every\ time\ the\ fly\ eats\ a\ fruit.\ It\ \r\n\ also\ stops\ the\ program\ and\ displays\ "You\ win"\ if\ the\ fly\ eats\ twenty\r\n\ fruits\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ There\ is\ no\ return\ type\r\n
+numComments=3

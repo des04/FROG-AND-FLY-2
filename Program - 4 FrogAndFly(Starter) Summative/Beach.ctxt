@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Beach
+comment0.text=\r\n\ 5\ marks\r\n
+comment1.params=
+comment1.target=Beach()
+comment1.text=\r\n\ This\ is\ kind\ of\ like\ an\ act\ method\ but\ for\ Beach.\r\n\ It\ adds\ a\ Fly\ object\ at\ a\ random\ position\ somewhere\ in\ the\ world,\r\n\ adds\ 10\ Food\ objects\ to\ the\ world,\r\n\ adds\ a\ Frog\ object\ at\ the\ center\ of\ the\ world,\r\n\ and\ sets\ the\ score\ to\ equal\ what\ the\ scoreboard\ at\ the\ top\ of\ the\ screen\ is\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ There\ is\ no\ return\ type\r\n
+comment2.params=n
+comment2.target=void\ addFood(int)
+comment2.text=\r\n\ Adds\ n\ Food\ objects\ to\ the\ world\r\n
+comment3.params=
+comment3.target=void\ addFrog()
+comment3.text=\r\n\ Adds\ a\ frog\ in\ the\ center\ of\ the\ screen\r\n
+comment4.params=
+comment4.target=void\ update()
+comment4.text=\r\n\ Updates\ the\ score\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ There\ is\ no\ return\ type\r\n
+numComments=5
